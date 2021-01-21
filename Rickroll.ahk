@@ -12,6 +12,6 @@ Send #r ; Run prompt
 Sleep, 500
 Send, https://youtu.be/dQw4w9WgXcQ?t=42 ; The link, opens in default browser
 Send {Enter}
-Sleep, 1000 ; Wait for it to load, can be changed depending on speed
+Sleep, 2000 ; Wait for it to load, can be changed depending on speed
 Send, f ; Sets it to fullscreen
 Sleep, 100 ; Will add additional stuff after this
